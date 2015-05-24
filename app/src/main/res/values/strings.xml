@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CatInTheHat</string>
+
+    <string name="title">Cat in the hat apps</string>
+
+    <string name="button_cat">The Cat</string>
+    <string name="button_thing1">Thing 1</string>
+    <string name="button_thing2">Thing 2</string>
+    <string name="button_thingamajigger">Thingamajigger</string>
+    <string name="button_sally">Sally</string>
+    <string name="button_nick">Nick</string>
+    <string name="button_dr_seuss">Dr. Seuss</string>
+    <string name="toast">Launching \"%s\" app</string>
+
+</resources>

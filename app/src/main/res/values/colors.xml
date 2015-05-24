@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg">#FFF</color>
+    <color name="title_bg">#BF360C</color>
+    <color name="title_text">#FFFFFF</color>
+
+    <color name="standard_button">#F08C35</color> <!-- this is Udacious! -->
+    <color name="dark_button">#BF360C</color>
+    <color name="button_text">#FFFFFF</color>
+
+</resources>
